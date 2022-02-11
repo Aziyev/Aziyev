@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aziyev
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me idrisaa@code.edu.az
+- Best Regards,
+- İdris Aziyev
+- Programming Student in Code Academy
