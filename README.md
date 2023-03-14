@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idris Aziyev</h1>
 <h3 align="center">A Front End Developer From Azerbaijan,Baku</h3>
-<img class="MMImage-Origin" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*JgXuFLW8zhBVYB1SocHu_w.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*JgXuFLW8zhBVYB1SocHu_w.gif" width="980" height="550">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziyev&label=Profile%20views&color=0e75b6&style=flat" alt="aziyev" /> </p>
 
 - 🌱 I’m currently learning **REACT.JS**
