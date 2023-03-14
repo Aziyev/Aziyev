@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idris Aziyev</h1>
 <h3 align="center">A Front End Developer From Azerbaijan,Baku</h3>
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*JgXuFLW8zhBVYB1SocHu_w.gif))
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*JgXuFLW8zhBVYB1SocHu_w.gif)" width="100%" height="500" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziyev&label=Profile%20views&color=0e75b6&style=flat" alt="aziyev" /> </p>
 
