@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **REACT.JS**
 
-- 👨‍💻 All of my projects are available at [aziyev.com](aziyev.com)
+- 👨‍💻 All of my projects will be available at [aziyev.com](aziyev.com) coming soon..
 
 - 📫 How to reach me **aziyev.idris@gmail.com**
 
