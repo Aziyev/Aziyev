@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idris Aziyev</h1>
-<h3 align="center">A Front End Developer From Azerbaijan,Baku</h3>
+<h3 align="center">A Front End Developer From Canada,Hamilton</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziyev&label=Profile%20views&color=0e75b6&style=flat" alt="aziyev" /> </p>
